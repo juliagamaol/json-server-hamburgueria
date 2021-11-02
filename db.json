@@ -99,14 +99,6 @@
       "userId": 3,
       "quantity": 4,
       "id": 2
-    },
-    {
-      "title": "McShake Ovomaltine",
-      "type": "Sobremesas",
-      "price": "10",
-      "userId": 5,
-      "quantity": 1,
-      "id": 3
     }
   ]
 }
