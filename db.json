@@ -86,18 +86,14 @@
       "title": "Hamburguer",
       "type": "Sanduíches",
       "price": 14,
-      "image": "https://i.ibb.co/DfdVC0F/202109090436-skn5yx754p-1.png",
-      "userId": 1,
-      "quantity": 2,
+      "userId": 6,
       "id": 1
     },
     {
       "title": "Hamburguer",
       "type": "Sanduíches",
       "price": 14,
-      "image": "https://i.ibb.co/DfdVC0F/202109090436-skn5yx754p-1.png",
-      "userId": 3,
-      "quantity": 4,
+      "userId": 6,
       "id": 2
     }
   ]
