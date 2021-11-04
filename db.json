@@ -81,20 +81,5 @@
       "image": "https://s3-alpha-sig.figma.com/img/1418/8d02/bff95df5c4ffe3b30eb1fc1d20d11c67?Expires=1636934400&Signature=V~Gg~czQ8Ite9oRrZb9KATPcDSYuylX9pydWe3QLrCqL~ji6nY-i7yh1g-Y8ZymVDujBIL8U4kMrKLbkX~5iKsKPmYeGTLabX9IGay2dOnuCCsI~BCHmmkZmSNL7uL0kzwCenc1lE4JKfoukbfsVQ2X4z5YimJq5NzU~xSrDLVt7Rs0-8wdH-jT3q8OxmTdo7~zbmShUqcK3aryBsxk-FKgTwklzJ~XYmnBsQotrOD8QeLuxSG4Yv3eDelzKPOxkB5O6D38yxrleLXqF~vbo4EtWUC-8gcYSyfJsWcO-tSRhbWyZeUOu~hGA-tvfBe2HLah3G6rvE57cQfJejq7C4Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
     }
   ],
-  "cart": [
-    {
-      "title": "Hamburguer",
-      "type": "Sanduíches",
-      "price": 14,
-      "userId": 6,
-      "id": 1
-    },
-    {
-      "title": "Hamburguer",
-      "type": "Sanduíches",
-      "price": 14,
-      "userId": 6,
-      "id": 2
-    }
-  ]
+  "cart": []
 }
